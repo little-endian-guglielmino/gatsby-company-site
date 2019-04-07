@@ -2,23 +2,19 @@
 templateKey: index-page
 title: Little Endian - software crafter
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
+heading: We make the software that drives Your business
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: What we do?
   description: >
     Little Endian mission is to assist customers in the software development process.
 description: >-
-  Making an application today is a very touth work, 
+    We are a team of senior software developers offering services that focus on IoT applications, microservices architectures, and mobile apps. 
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/code-screen.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        Code is our mother tongue and we love use it to solve problems. Whatever you need a small application or a large scale distribuited architecture, we are the right one to make it possible!
     - image: /img/coffee-gear.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and
