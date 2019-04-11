@@ -1,13 +1,13 @@
 ---
 templateKey: index-page
-title: Little Endian - software crafter
+title: Little Endian - software craftsmen
 image: /img/home-jumbotron.jpg
 heading: We make the software that drives Your business
-subheading: Support sustainable farming while enjoying a cup
+subheading: Empty
 mainpitch:
   title: What we do?
   description: >
-    Little Endian mission is to assist customers in the software development process.
+    Our mission is to assist customers in the software development process.
 description: >-
     We are a team of senior software developers offering services that focus on IoT applications, microservices architectures, and mobile apps. 
 intro:

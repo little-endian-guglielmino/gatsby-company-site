@@ -10,7 +10,7 @@ A lot of companies make software but only a small part of the do **QUALITY SOFTW
 Our way to work is based on **DIRECT** and **TRANSPARENT** relationship with the customer. We use tools to share projects status, sources, release notifications and so on directly connecting the customer with them.
 
 ### Sopporter
-Little Endian mission is to **SUPPORT** the customer,helping him to bring a project from the idea to the deploy. We work on a wide range of (technologies)[/usecases] givin
+Little Endian mission is to **SUPPORT** the customer, helping him to bring a project from the idea to the deploy. We work on a wide range of (technologies)[/technologies], providing both development from scratch or support on existing code base for cloud migrations, refactoring, performance and security tuning. 
 
 ### Direct sourcing
 Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.

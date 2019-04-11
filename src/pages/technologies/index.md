@@ -1,36 +1,28 @@
 ---
 templateKey: 'tech-page'
 path: /technologies
-title: Our Coffee
+title: Technologies we use
 image: /img/tech-jumbotron.jpg
-heading: Great coffee with a conscience
+heading: The right tool for the best solution!
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  LittleEndian is specialized on wide range of services such as Web development, Automation testing, Database design and management, Front-end development, support of delivered software and many others. We are very flexible on the technologies used be, of curse, there is a stack of technologies that get our preferences, here a list of those.
 intro:
   blurbs:
     - image: /img/nodejs-logo.png
       text: >
-        Node.js grew very fast in the last few years and for a lot of good reasons. Little Endian is focused on creating applications using this engine for a wide range of applications, from **IoT** in **embedded devices** to large scale applications deployed in **cloud** and **hybrid clouds**.
+        One of the Little Endian expertise is Node.js. We develop project with Node.js for a wide range of applications, from IoT in embedded devices to large scale applications deployed in cloud and hybrid clouds. For large scale applications we typically create microservices architectures, both for containers enviroment than for bare metal deployments. We offer our expertice both for creating solutions from scratch and for refactoring existing applications.
     - image: /img/python-logo.png
       text: >
-        Another language we master is Python, this language is  
-    - image: /img/tutorials.png
+        Python is for us the army knife, we use it in a huge amount of applications.  One typical use case is for web backends (with Django or Flask as framework), but also in IoT applications in devices and data processing pipelines. We use Python also for educational purposes, creating courses for kids and for adults who will to learn to code.
+    - image: /img/kubernetes.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
+        One of our preferred deployment environment is Kubernetes, when the requirements fit in a microservice architecture, containers based, Kubernetes is the orchestrator we choose. We are able to offer design and implementation of Kubernetes architecture or help our clients to migrate old applications to it. We offer also monitoring and full cluster management as service when required.
+    - image: /img/mongodb-logo.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+       MongoDB
+    - image: /img/espressif-logo.png
+      text: >
+       ESP32 and ESP8266 custom firmware development
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -63,32 +55,5 @@ testimonials:
       Kaldi is the place to go if you want the best quality coffee. I love their
       stance on empowering farmers and transparency.
 full_image: /img/products-full-width.jpg
-pricing:
-  heading: Monthly subscriptions
-  description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
-  plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
-      items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
-      items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
-      items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '??'
+
 ---
