@@ -2,32 +2,31 @@
 templateKey: index-page
 title: Little Endian - software craftsmen
 image: /img/home-jumbotron.jpg
-heading: We make the software that drives Your business
+heading: We make the software that drives Your business!
 subheading: Empty
 mainpitch:
   title: What we do?
   description: >
-    Our mission is to assist customers in the software development process.
+    Our mission is to assist clients in the software development process.
 description: >-
     We are a team of senior software developers offering services that focus on IoT applications, microservices architectures, and mobile apps. 
 intro:
   blurbs:
     - image: /img/code-screen.png
       text: >
-        Code is our mother tongue and we love use it to solve problems. Whatever you need a small application or a large scale distribuited architecture, we are the right one to make it possible!
-    - image: /img/coffee-gear.png
+        Code is our mother tongue and we love use it to solve problems. Whatever you need a small application 
+        or a large scale distributed architecture, we are the right ones to make it possible!
+    - image: /img/cloud-icon.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
+        We don't just write code, we design solutions! 
+        Whether the client needs an improvement on a already existent project or a solution from scratch, 
+        LittleEndian provides all his professionality and expertise to found the best solution.
+    - image: /img/iot-icon.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        One of LittleEndian more focused area is IoT. 
+        We address Internet Of Things in a "all inclusive" way, we can asist our clients from the hardware design,
+        to the cloud platform development, deploymet and monitoring. We are a single interface to talk with, 
+        giving to our customers unmatched quality, efficency and cost saving.
     - image: /img/meeting-space.png
       text: >
         We believe that good coffee has the power to bring people together.
@@ -35,26 +34,4 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
-main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
-  image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
-  image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
-  image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
 ---

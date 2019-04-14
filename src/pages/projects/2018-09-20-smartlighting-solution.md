@@ -30,5 +30,8 @@ Time to market required by the client was challengig because his customers were 
 - Core backend layer implementing API and device communication
 - Single Page Application frontend 
 
+![ECMS](/img/ecms-dashboard.png)
 
 ## The outcome
+
+LittleEndian delivered a full IoT solution, from the device to the cloud based platform, that improved the client experience in managing lighing systems for large offices and mall. The main outcome for the client was a significative cost saving in the first year, so big that the investment in the development of the plaform was totally covered by it.

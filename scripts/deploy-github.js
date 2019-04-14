@@ -13,6 +13,10 @@ ghpages.publish(
     repo: 'git@github.com:little-endian-guglielmino/little-endian-guglielmino.github.io.git',
   },
   (err) => {
-    console.log(`Deploy status: ${err}`)
+    if(!err) {
+      console.log(`Deploy done sucessfully`);
+    } else {
+      console.log(`Deploy error ${err}`);
+    }
   }
 )

@@ -5,17 +5,12 @@ import Layout from '../components/Layout'
 import Features from '../components/Features'
 import Testimonials from '../components/Testimonials'
 
-import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
-
 export const ProductPageTemplate = ({
   image,
-  title,
   heading,
   description,
   intro,
-  main,
   testimonials,
-  fullImage,
 }) => (
   <div className="content">
     <div
@@ -39,18 +34,7 @@ export const ProductPageTemplate = ({
           <div className="columns">
             <div className="column is-10 is-offset-1">
               <Features gridItems={intro.blurbs} />
-              <div className="columns">
-                <div className="column is-7">
-                  <h3 className="has-text-weight-semibold is-size-3">
-                    {main.heading}
-                  </h3>
-                  <p>{main.description}</p>
-                </div>
-              </div>
-              
               <Testimonials testimonials={testimonials} />
-             
-              
             </div>
           </div>
         </div>
@@ -136,52 +120,10 @@ export const productPageQuery = graphql`
           heading
           description
         }
-        main {
-          heading
-          description
-          image1 {
-            alt
-            image {
-              childImageSharp {
-                fluid(maxWidth: 526, quality: 92) {
-                  ...GatsbyImageSharpFluid
-                }
-              }
-            }
-          }
-          image2 {
-            alt
-            image {
-              childImageSharp {
-                fluid(maxWidth: 526, quality: 92) {
-                  ...GatsbyImageSharpFluid
-                }
-              }
-            }
-          }
-          image3 {
-            alt
-            image {
-              childImageSharp {
-                fluid(maxWidth: 1075, quality: 72) {
-                  ...GatsbyImageSharpFluid
-                }
-              }
-            }
-          }
-        }
         testimonials {
           author
           quote
         }
-        full_image {
-          childImageSharp {
-            fluid(maxWidth: 2048, quality: 100) {
-              ...GatsbyImageSharpFluid
-            }
-          }
-        }
-        
       }
     }
   }

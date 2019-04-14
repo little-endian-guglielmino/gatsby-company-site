@@ -29,7 +29,7 @@ export default class Index extends React.Component {
               <form
                 name="contact"
                 method="post"
-                action="https://mailthis.to/LittleEndian"
+                action="https://formspree.io/info@little-endian.it"
                 encType="multipart/form-data"
               >
                 {/* The `form-name` hidden field is required to support form submissions without JavaScript */}

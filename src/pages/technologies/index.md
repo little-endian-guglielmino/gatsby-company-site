@@ -19,32 +19,17 @@ intro:
         One of our preferred deployment environment is Kubernetes, when the requirements fit in a microservice architecture, containers based, Kubernetes is the orchestrator we choose. We are able to offer design and implementation of Kubernetes architecture or help our clients to migrate old applications to it. We offer also monitoring and full cluster management as service when required.
     - image: /img/mongodb-logo.png
       text: >
-       MongoDB
+       MongoDB is another preferred choice for a lot of scenarios and use cases. It perfectly fits in modern architecture, where data isn't bound with a static structure but instead needs high dynamism. It's highly supported by the tools we use and very scalable, we help customer both in adopting it from scratch than migrating old RDBMS based projects.
     - image: /img/espressif-logo.png
       text: >
-       ESP32 and ESP8266 custom firmware development
+       ESP32 and ESP8266 are perfect IoT devices, equipped with wireless connectivity, GPIO and connectivity, small and cheap. There is a huge amount of companies that are adopting those devices for many use cases. LittleEndian is the best partened for companies willing to create product based on those devices, given our experience on developing firmware for them we are able to implement a solution from scracth, perfectly integrated with the client needs.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
-main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
-  image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
-  image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
-  image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: >-
@@ -54,6 +39,5 @@ testimonials:
     quote: >-
       Kaldi is the place to go if you want the best quality coffee. I love their
       stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
 
 ---
