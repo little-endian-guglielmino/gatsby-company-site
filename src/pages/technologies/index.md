@@ -31,13 +31,15 @@ intro:
     knowledge to anyone. This is an edit via identity...
 
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author: Michael Rasky
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
+      Working with LittleEndian was amazing, sometime it was like they were able to read my mind, 
+      doing the right thing even before I asked for it.
+  - author: Sam Ritchey
     quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+      I asked LittleEndian a very challenging IoT project, I was struggeling since some months, trying hard to 
+      make the project with other companies, without success. Asking for it to LittleEndian has been a game changer, 
+      we delivered the project and it was a success, thanks guys!
+
 
 ---
