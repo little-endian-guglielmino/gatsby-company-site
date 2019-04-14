@@ -5,7 +5,7 @@ title: Technologies we use
 image: /img/tech-jumbotron.jpg
 heading: The right tool for the best solution!
 description: >-
-  LittleEndian is specialized on wide range of services such as Web development, Automation testing, Database design and management, Front-end development, support of delivered software and many others. We are very flexible on the technologies used be, of curse, there is a stack of technologies that get our preferences, here a list of those.
+   LittleEndian is specialized on wide range of services such as Web development, Automation testing, Database design and management, Front-end development, support of delivered software and many others. We are very flexible on the technologies used be, of curse, there is a stack of technologies that get our preferences, here a list of those.
 intro:
   blurbs:
     - image: /img/nodejs-logo.png
@@ -25,10 +25,7 @@ intro:
        ESP32 and ESP8266 are perfect IoT devices, equipped with wireless connectivity, GPIO and connectivity, small and cheap. There is a huge amount of companies that are adopting those devices for many use cases. LittleEndian is the best partened for companies willing to create product based on those devices, given our experience on developing firmware for them we are able to implement a solution from scracth, perfectly integrated with the client needs.
   heading: What we offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    
 
 testimonials:
   - author: Michael Rasky

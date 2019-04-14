@@ -27,5 +27,4 @@ intro:
         We address Internet Of Things in a "all inclusive" way, we can asist our clients from the hardware design,
         to the cloud platform development, deploymet and monitoring. We are a single interface to talk with, 
         giving to our customers unmatched quality, efficency and cost saving.
-
 ---

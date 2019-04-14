@@ -17,10 +17,10 @@ Industry is made of costly devices, often outdated in regards to interacting wit
 
 ## The Solution 
 
-This project is an example of cloud integration for devices, meant to talk in closed networks inside the factory. For this project we developed a Python applications, deployed in a Raspberry Pi acting as [edge computing platform](https://en.wikipedia.org/wiki/Edge_computing). Application purpose is to talk with ModBus devices over RS485 and create a sort of gateway to the cloud through MQTT. 
+This project is an example of cloud integration for devices, meant to talk in closed networks inside the factory. For this project we developed a Python solution, deployed in a Raspberry Pi acting as [edge computing platform](https://en.wikipedia.org/wiki/Edge_computing). Application purpose is to talk with ModBus devices over RS485 and create a sort of gateway to the cloud through MQTT. 
 Thanks to this project the factory is now able to get information on the production and alerts in near realtime from anywhere.
 
 ![ModBus Gateway Architecture](/img/modbus-gateway-architecture.png)
 ## The Outcome
 
-The project drammatically changed the company ability to control processes and react to events in near realtime. Integrating standard protocol, like MQTT, to devices originally able to talk only on local networks with lecgacy protocols, allowed to integrate with a 
+The project drammatically changed the company ability to control processes and react to events in near realtime. Integrating standard protocol, like MQTT, to devices originally able to talk only on local networks with legacy protocols. This allowed to integrate with a wide range of platforms, in a short time all the connected factories optimized their worflow and processes doing a big leap forward in efficency.
