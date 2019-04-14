@@ -16,14 +16,19 @@ tags:
 
 ## The Challenge 
 
-LittleEndian was engaged to create a solution creating a device and a platform to monitor and control lighitng system. The solution is an enanchement for the lamps made by the client, those lamps are sold to offices, malls and any other indoor building. Problems solved by introducing a level of smartness to those lamps are:
+LittleEndian was engaged to create a solution creating a device and a platform to monitor and control lighitng system. The solution is an enanchement for the lamps made by the client, those lamps are sold to offices, malls and any other indoor building.
+The challenge was to address some specific issues:
+
 - alerting on failure
 - compsuntiong monitoring
 - remote control
 
+In the starting conditions, so lamps without any connections, the client was forced to manage maintenance with a team of technicians visiting periodically the installation sites to monitor and fix issues. That was very expensive, and significatively reduced the income margin. On the other side, client's customers was asking to be able to control the lighting system from remote, like they saw in competitors solutions. 
+Last but not least, having a fine check of consumptions, the client can be able to give a tangible way for the client to measure the energy efficency and at the same time implement predictive maintenance in the system.
+
 ## The Solution
 
-Time to market required by the client was challengig because his customers were migrating to competitors already equipped with smart lighting systems, even though we provided a solution made of some parts:
+Time to market required by the client was challengig, because his customers were migrating to competitors already equipped with smart lighting systems, even though we provided a solution made of some parts:
 
 - Firmware for the ESP32 device control and power meter device (hardware design made in collaboration with the client)
 - Edge computing application
