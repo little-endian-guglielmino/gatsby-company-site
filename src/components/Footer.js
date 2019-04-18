@@ -10,14 +10,9 @@ const Footer = class extends React.Component {
   render() {
     return (
       <footer className="footer has-background-black has-text-white-ter">
-        <div className="content has-text-centered">
-          <img
-            src={logo}
-            alt="LittleEndian"
-            style={{ width: '14em', height: '10em' }}
-          />
-        </div>
+
         <div className="content has-text-centered has-background-black has-text-white-ter">
+
           <div className="container has-background-black has-text-white-ter">
             <div className="columns">
               <div className="column is-4">
@@ -38,17 +33,7 @@ const Footer = class extends React.Component {
                         technologies
                       </Link>
                     </li>
-                 
-                    <li>
-                      <a
-                        className="navbar-item"
-                        href="/admin/"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                      >
-                        Admin
-                      </a>
-                    </li>
+
                   </ul>
                 </section>
               </div>
@@ -85,16 +70,44 @@ const Footer = class extends React.Component {
                   />
                 </a>
                 <a title="github" href="https://github.com/orgs/little-endian-guglielmino/">
-                <img
-                    src={github} 
-                    alt="Github"                    
+                  <img
+                    src={github}
+                    alt="Github"
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
               </div>
             </div>
+
+          </div>
+
+        </div>
+        <div className="container has-background-black ">
+          <div className="columns">
+            
+            <div className="column is-4">
+              <p className="has-text-left is-size-7">
+                LittleEndian - P.I.: 12092120018<br />
+                Copyright © 2019 LittleEndian All rights reserved<br />
+                Via Bussoleno, 42 - 10091 Alpignano (TO)<br />
+                ITALY<br />
+                <a href="mailto:info@little-endian.it">info@little-endian.it</a>
+              </p>
+
+            </div>
+            <div className="column is-4"></div>
+            <div className="column">
+              <div className="has-text-centered">
+                <img
+                  src={logo}
+                  alt="LittleEndian"
+                  style={{ width: '14em', height: '10em' }}
+                />
+              </div>
+            </div>
           </div>
         </div>
+
       </footer>
     )
   }

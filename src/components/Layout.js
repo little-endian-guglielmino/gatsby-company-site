@@ -2,8 +2,10 @@ import React from 'react'
 import Helmet from 'react-helmet'
 import Footer from '../components/Footer'
 import Navbar from '../components/Navbar'
+import CookieConsent from 'react-cookie-consent'
 import './all.sass'
 import useSiteMetadata from './SiteMetadata'
+
 
 const TemplateWrapper = ({ children }) => {
   const { title, description } = useSiteMetadata()
@@ -45,6 +47,9 @@ const TemplateWrapper = ({ children }) => {
         <meta property="og:image" content="/img/og-image.jpg" />
       </Helmet>
       <Navbar />
+      <CookieConsent>
+        This website uses cookies to enhance the user experience.
+      </CookieConsent>
       <div>{children}</div>
       <Footer />
     </div>
