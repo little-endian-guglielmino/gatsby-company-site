@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Little Endian - Company Site',
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      'Little Endian - Company Site',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -67,6 +67,18 @@ module.exports = {
         develop: true, // Activates purging in npm run develop
         purgeOnly: ['/all.sass'], // applies purging only on the bulma css file
       },
+    },
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "UA-139151093-1",
+        head: false,
+        anonymize: true,
+        respectDNT: true,
+        // Avoids sending pageview hits from custom paths
+        exclude: ["/preview/**", "/do-not-track/me/too/"],
+        cookieDomain: "little-endian.it"
+      }
     }
   ]
 }
