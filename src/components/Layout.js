@@ -43,8 +43,8 @@ const TemplateWrapper = ({ children }) => {
 
         <meta property="og:type" content="business.business" />
         <meta property="og:title" content={title} />
-        <meta property="og:url" content="/" />
-        <meta property="og:image" content="/img/og-image.jpg" />
+        <meta property="og:url" content="https://www.little-endian.it" />
+        <meta property="og:image" content="https://www.little-endian.it/img/og-image.jpg" />
       </Helmet>
       <Navbar />
       <CookieConsent>

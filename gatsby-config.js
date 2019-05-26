@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Little Endian - Company Site',
     description:
-      'Little Endian - Company Site',
+      'Little Endian - The Sofware Developers Company Site.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
