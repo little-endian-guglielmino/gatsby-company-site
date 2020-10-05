@@ -30,7 +30,7 @@ const Footer = class extends React.Component {
                     </li>
                     <li>
                       <Link className="navbar-item" to="/technologies">
-                        technologies
+                        Technologies
                       </Link>
                     </li>
 
@@ -88,7 +88,7 @@ const Footer = class extends React.Component {
             <div className="column is-4">
               <p className="has-text-left is-size-7">
                 <strong>LittleEndian</strong><br /><br />
-                
+
                 PI: 12092120018 | Rea & Cciaa: TO - 1263848 <br />
                 Via Mombello, 1/A - 10044 Pianezza (TO) - ITALY<br />
                 <a href="mailto:info@little-endian.it">info@little-endian.it</a><br />

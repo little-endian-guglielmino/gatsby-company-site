@@ -5,7 +5,7 @@ title: Technologies we use
 image: /img/tech-jumbotron.jpg
 heading: The right tool for the best solution!
 description: >-
-   LittleEndian is specialized on wide range of services such as Web development, Automation testing, Database design and management, Front-end development, support of delivered software and many others. We are very flexible on the technologies used be, of curse, there is a stack of technologies that get our preferences, here a list of those.
+   LittleEndian is specialized on wide range of services such as Web development, Automation testing, Database design and management, Front-end development, support of delivered software and many others. We are very flexible on the technologies used but, of curse, there is a stack of technologies that get our preferences, here a list of those.
 intro:
   blurbs:
     - image: /img/nodejs-logo.jpg
