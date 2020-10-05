@@ -8,12 +8,15 @@ description: >-
    LittleEndian is specialized on wide range of services such as Web development, Automation testing, Database design and management, Front-end development, support of delivered software and many others. We are very flexible on the technologies used be, of curse, there is a stack of technologies that get our preferences, here a list of those.
 intro:
   blurbs:
-    - image: /img/nodejs-logo.png
+    - image: /img/nodejs-logo.jpg
       text: >
         One of the Little Endian expertise is Node.js. We develop project with Node.js for a wide range of applications, from IoT in embedded devices to large scale applications deployed in cloud and hybrid clouds. For large scale applications we typically create microservices architectures, both for containers enviroment than for bare metal deployments. We offer our expertice both for creating solutions from scratch and for refactoring existing applications.
-    - image: /img/python-logo.png
+    - image: /img/python-logo.jpg
       text: >
         Python is for us the army knife, we use it in a huge amount of applications.  One typical use case is for web backends (with Django or Flask as framework), but also in IoT applications in devices and data processing pipelines. We use Python also for educational purposes, creating courses for kids and for adults who will to learn to code.
+    - image: /img/flutter-logo.png
+      text: >
+        We can define ourselves early Flutter adopter. Developing mobile apps is historically a pain if you need to manage many platforms (mainly iOS and Android). There are many hybrid frameworks out of there but, after year of tries, we foud Flutter as the one that get closer to the "one code base, multiple targets" promise. For customers whom needs a mobile app with short time to market Flutter is a great choice and we offer a very good skills with it.
     - image: /img/kubernetes.png
       text: >
         One of our preferred deployment environment is Kubernetes, when the requirements fit in a microservice architecture, containers based, Kubernetes is the orchestrator we choose. We are able to offer design and implementation of Kubernetes architecture or help our clients to migrate old applications to it. We offer also monitoring and full cluster management as service when required.

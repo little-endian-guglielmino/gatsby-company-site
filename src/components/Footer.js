@@ -87,11 +87,12 @@ const Footer = class extends React.Component {
             
             <div className="column is-4">
               <p className="has-text-left is-size-7">
-                LittleEndian - P.I.: 12092120018<br />
-                Copyright © 2019 LittleEndian All rights reserved<br />
-                Via Bussoleno, 42 - 10091 Alpignano (TO)<br />
-                ITALY<br />
-                <a href="mailto:info@little-endian.it">info@little-endian.it</a>
+                <strong>LittleEndian</strong><br /><br />
+                
+                PI: 12092120018 | Rea & Cciaa: TO - 1263848 <br />
+                Via Mombello, 1/A - 10044 Pianezza (TO) - ITALY<br />
+                <a href="mailto:info@little-endian.it">info@little-endian.it</a><br />
+                <a href="tel:+390117803557">+39 011 7803557</a>
               </p>
 
             </div>
